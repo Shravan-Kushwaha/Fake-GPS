@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328342258426",
+    "project_id": "fake-gps-92395",
+    "storage_bucket": "fake-gps-92395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328342258426:android:8792e962d39f0875367f43",
+        "android_client_info": {
+          "package_name": "com.fakegps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328342258426-bsb0s5vnoff86epe4gbaokruqaf91k8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIKcEWh10tEISqBhjrv8ZkILaOu8Rx28g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328342258426-bsb0s5vnoff86epe4gbaokruqaf91k8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

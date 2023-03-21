@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fake GPS</string>
+    <string name="map_api_key">AIzaSyDmhrQyx-hpna-_AHcQ4pZpR7SS5hReO6w</string>
+    <string name="location_permissions_needed">This app needs location permission to use this feature. You can grant them in app settings.</string>
+    <string name="camera_permissions_needed">Please provide camera and storage permission</string>
+    <string name="open_setting">Go to Settings</string>
+    <string name="error">Error</string>
+    <string name="required">required</string>
+    <string name="success">success</string>
+    <string name="max_20mb_allow">Maximum 20MB file size allowed for document.</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_from_gallery">Choose From Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="selection_option">Select Option</string>
+    <string name="no_internet">The internet connection appears to be offline, please connect to the internet and retry</string>
+    <string name="general_something_went_wrong">Something went wrong ! Please try again later.</string>
+    <string name="no_internet_retry">Something went wrong due to network issue, please try again later.</string>
+    <string name="session_expired">You\'ve been logged out. Please log back in</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="select_location">Select Location</string>
+    <string name="done">Done</string>
+    <string name="pick_address">Pick Address</string>
+</resources>
