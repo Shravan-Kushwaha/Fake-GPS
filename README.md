@@ -1,2 +1,2 @@
 # Fake-GPS
-This is app to mock location.
+This is mock location app.
